@@ -1,0 +1,6 @@
+name: AvatarGlow
+main: me.TurtlesAreHot.AvatarGlow.AvatarGlow
+version: 1.0.0
+author: TurtlesAreHot
+depend: [ProjectKorra, GlowAPI]
+description: Glow while in the avatar state
